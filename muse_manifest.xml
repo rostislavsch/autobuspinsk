@@ -1,0 +1,56 @@
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sda.com" resolutions="1x" timestamp="1538215015533">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="336149589" ref="index"/>
+  </folder>
+  <folder name="fonts">
+    <file name="9206.woff" crc="4216094876"/>
+    <file name="9206.eot" crc="3913970341"/>
+    <file name="9206.svg" crc="3967347148"/>
+    <file name="helveticaneuecyrthin.woff" crc="223613442"/>
+    <file name="helveticaneuecyrthin.eot" crc="515943264"/>
+    <file name="helveticaneuecyrthin.svg" crc="3969495179"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:index"/>
+    <file name="museutils.js" crc="3803043152" ref="phone>index:index"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:index"/>
+    <file name="museconfig.js" crc="4153641093" ref="phone>index:index"/>
+    <file name="jquery.watch.js" crc="99325471" ref="phone>index:index"/>
+    <file name="webpro.js" crc="242022427" ref="phone>index"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="phone>index"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="phone>index"/>
+    <file name="touchswipe.js" crc="4066113679" ref="phone>index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="phone>index"/>
+    <file name="require.js" crc="4157109226" ref="phone>index:index"/>
+  </folder>
+  <folder name="images">
+    <file name="облако2.svg" crc="149627490" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="облако2_poster_.png" crc="3814889162" ref="phone>index"/>
+    <file name="облако1.svg" crc="374480614" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="облако1_poster_.png" crc="46348472" ref="phone>index"/>
+    <file name="fdnj,ec10.svg" crc="281857444" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fdnj,ec10_poster_.png" crc="4097542394" ref="phone>index"/>
+    <file name="конеч-2.jpg" crc="371959077" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="maz261синий6.svg" crc="269475965" ref="phone>index"/>
+    <file name="maz261синий6_poster_u2250.png" crc="3897805619" ref="phone>index"/>
+    <file name="автобус9.svg" crc="192165042" ref="phone>index"/>
+    <file name="автобус9_poster_u2326.png" crc="4045721543" ref="phone>index"/>
+    <file name="fdnj,ec10_poster_u2332.png" crc="4097542394" ref="phone>index"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="index.css" crc="302170121" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="3872022805" seo="true" mt="1538214558004" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="236070371" seo="true" mt="1538214989797" redirect="true"/>
+</manifest>
